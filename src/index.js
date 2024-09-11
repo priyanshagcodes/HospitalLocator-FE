@@ -5,7 +5,7 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 
 //TODO 1 enter your key from geocode here
-export const GEOCODE_API_KEY="66c5f5e691af4903044547lrs007d35";
+export const GEOCODE_API_KEY="66c5efa834ce3253487154ajk997574";
 
 //TODO 2 enter your function app url here
 export const FUNCTION_APP_URL="https://fa-cloud-user-5.azurewebsites.net/api/getHospitalsList?code=+";
